@@ -6,8 +6,8 @@
 // @match        *://*/*
 // @run-at       document-start
 // @grant        none
-// @downloadURL https://raw.githubusercontent.com/AnimatedEightball/OF-mobile-userscript
-// @updateURL   https://raw.githubusercontent.com/AnimatedEightball/OF-mobile-userscript
+// @downloadURL https://raw.githubusercontent.com/AnimatedEightball/OF-mobile-userscript/refs/heads/main/OF-mobile-userscript.js
+// @updateURL   https://raw.githubusercontent.com/AnimatedEightball/OF-mobile-userscript/refs/heads/main/OF-mobile-userscript.js
 // @homepageURL https://github.com/AnimatedEightball/OF-mobile-userscript/
 
 // @author       AnimatedEightball
