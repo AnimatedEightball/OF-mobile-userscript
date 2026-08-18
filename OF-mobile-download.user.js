@@ -7,7 +7,7 @@
 // @downloadURL https://raw.githubusercontent.com/AnimatedEightball/OF-mobile-userscript/refs/heads/main/OF-mobile-download.user.js
 // @updateURL   https://raw.githubusercontent.com/AnimatedEightball/OF-mobile-userscript/refs/heads/main/OF-mobile-download.user.js
 // @homepageURL https://github.com/AnimatedEightball/OF-mobile-userscript/
-// @version      1.0
+// @version      1.0.0
 // @author       AnimatedEightball
 // @description  Re-enable long press / context menu on images even if disabled by the site
 // ==/UserScript==
