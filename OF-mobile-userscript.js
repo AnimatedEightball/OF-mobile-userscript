@@ -1,16 +1,15 @@
 // ==UserScript==
 // @name         Onlyfans - Download pics and vids via long-press on mobile
 // @namespace    github.com/AnimatedEightball
-// @version      1.0
-// @description  Re-enable long press / context menu on images even if disabled by the site
 // @match        *://*/*
 // @run-at       document-start
 // @grant        none
 // @downloadURL https://raw.githubusercontent.com/AnimatedEightball/OF-mobile-userscript/refs/heads/main/OF-mobile-userscript.js
 // @updateURL   https://raw.githubusercontent.com/AnimatedEightball/OF-mobile-userscript/refs/heads/main/OF-mobile-userscript.js
 // @homepageURL https://github.com/AnimatedEightball/OF-mobile-userscript/
-
+// @version      1.0
 // @author       AnimatedEightball
+// @description  Re-enable long press / context menu on images even if disabled by the site
 // ==/UserScript==
 
 (function() {
